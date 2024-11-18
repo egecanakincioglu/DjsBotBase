@@ -242,4 +242,4 @@ const events = new EventHandler({
 
 ---
 
-<p align="center">Cartel & Wyntine tarafından Geliştirilmiştir</p>
+<p align="center">Egecan Akıncıoğlu & Orkun Demirci tarafından Geliştirilmiştir</p>
